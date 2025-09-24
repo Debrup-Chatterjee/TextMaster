@@ -1,6 +1,6 @@
 # 📄 TextMaster
 
-A lightweight, feature-rich **text editor built in Java using AWT and Swing**.  
+A lightweight, feature-rich **Text Editor Desktop Application built in Java using AWT and Swing**.  
 This project replicates the functionality of Windows Notepad while adding customization options like font selection, word wrap, and search utilities.  
 
 ---
