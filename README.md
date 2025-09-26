@@ -11,16 +11,6 @@ This project replicates the functionality of Windows Notepad while adding custom
 
 ---
 
-## 📷 Screenshots
-<img width="742" height="495" alt="image" src="https://github.com/user-attachments/assets/5186851b-cc35-4f23-99aa-0cc373156b93" />
-<img width="1288" height="736" alt="image" src="https://github.com/user-attachments/assets/79f53961-7f96-4bf3-8161-9fc82a796fa2" />
-<img width="723" height="487" alt="image" src="https://github.com/user-attachments/assets/619b18df-a37d-4a9f-a7e6-1e615c25bfb8" />
-<img width="744" height="481" alt="image" src="https://github.com/user-attachments/assets/c6e204a0-a33f-49d7-b706-3724dddf8eee" />
-<img width="868" height="537" alt="image" src="https://github.com/user-attachments/assets/b427c8d3-4531-4fec-b4dd-d2feb5a582f9" />
-<img width="746" height="501" alt="image" src="https://github.com/user-attachments/assets/9e3d13ad-a0b6-41a7-b1a0-4233e4e183b4" />
-  
----
-
 ## ✨ Features  
 
 ### 🗂 File  
@@ -53,11 +43,21 @@ This project replicates the functionality of Windows Notepad while adding custom
 
 ---
 
+## 📷 Screenshots
+<img width="742" height="495" alt="image" src="https://github.com/user-attachments/assets/5186851b-cc35-4f23-99aa-0cc373156b93" />
+<img width="1288" height="736" alt="image" src="https://github.com/user-attachments/assets/79f53961-7f96-4bf3-8161-9fc82a796fa2" />
+<img width="723" height="487" alt="image" src="https://github.com/user-attachments/assets/619b18df-a37d-4a9f-a7e6-1e615c25bfb8" />
+<img width="744" height="481" alt="image" src="https://github.com/user-attachments/assets/c6e204a0-a33f-49d7-b706-3724dddf8eee" />
+<img width="868" height="537" alt="image" src="https://github.com/user-attachments/assets/b427c8d3-4531-4fec-b4dd-d2feb5a582f9" />
+<img width="746" height="501" alt="image" src="https://github.com/user-attachments/assets/9e3d13ad-a0b6-41a7-b1a0-4233e4e183b4" />
+
+---
+
 ## 🚀 Getting Started  
 
 ### Prerequisites  
 - JDK 8 or higher installed  
-- A Java IDE (Eclipse, IntelliJ IDEA, NetBeans) or terminal access  
+- A Java IDE (IntelliJ IDEA, Visual Studio Code, Eclipse, NetBeans) or terminal access  
 
 ### Running the Project  
 ```bash
